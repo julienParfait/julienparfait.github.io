@@ -1,5 +1,5 @@
 ---
-title: Cartography R/Python
+title: Machine Learning App
 publishDate: 2020-03-02 00:00:00
 img: /assets/grosseApp.png
 img_alt: Machine learning
