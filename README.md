@@ -9,8 +9,6 @@ npm create astro@latest -- --template portfolio
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 ![portfolio](https://github.com/julienParfait/new/blob/079d789555e5c45aa8c7e810bc6ec5dcf6f3f250/portfolio.png)
 
-![portfolio](https://github.com/julienParfait/new/blob/079d789555e5c45aa8c7e810bc6ec5dcf6f3f250/portfolio.png)
-
 ## 🧞 Commands
 All commands are run from the root of the project, from a terminal:
 | Command                   | Action                                           |
