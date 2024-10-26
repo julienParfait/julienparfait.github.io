@@ -4,7 +4,7 @@ publishDate: 2022-05-10 00:00:00
 img: /assets/sqlDash.png
 img_alt: ICP 
 description: |
-  Construction d'un indicateur synthétique de pauvreté et prédiction à l'aide des modèles d'apprentissage supervisé. 
+  Développement d'une application d'exécution des requêtes en langage SQL, de visualisation des requêtes et d'analyse de données. 
 tags:
   - Indicateur
   - Machine learning
@@ -12,3 +12,5 @@ tags:
 ---
 
 #### Description 
+
+En cours de développement. 

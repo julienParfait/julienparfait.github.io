@@ -4,7 +4,7 @@ publishDate: 2023-03-02 00:00:00
 img: /assets/segmentation.png
 img_alt: unsupervised learning
 description: |
-  Segmentation des clients à travers l'apprentissage non supervisé. 
+  Text mining, Segmentation des clients à travers l'apprentissage non supervisé et analyse des sentiments. 
 tags:
   - Design
   - Dev
