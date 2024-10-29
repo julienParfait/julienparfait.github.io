@@ -1,5 +1,5 @@
 ---
-title: Climate Change
+title: Changement climatique
 publishDate: 2023-02-02 00:00:00
 img: /assets/climate.png
 img_alt: Application de suivi du changement climatique
@@ -30,4 +30,4 @@ Ce projet est donc un outil puissant pour informer et mobiliser autour de la cau
 </p>
 
 
-Github :  <a href="https://github.com/julienParfait/climate_change.git">Climate Change.</a>
+Privacy Github :  <a href="https://github.com/julienParfait/climate_change.git">Climate Change.</a>

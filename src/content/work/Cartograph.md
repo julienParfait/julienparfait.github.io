@@ -1,5 +1,5 @@
 ---
-title: Cartography R/Python
+title: Cartographie
 publishDate: 2021-12-18 00:00:00
 img: /assets/carte.png
 img_alt: Cartography avec R et Python

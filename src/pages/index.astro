@@ -30,13 +30,13 @@ const projects = (await getCollection('work'))
 		<div class="wrapper stack gap-8 lg:gap-20">
 			<header class="hero">
 				<Hero
-					title="Bonjour, Je suis Julien Parfait BIDIAS"
-					tagline="Ingénieur Statisticien économiste."
+					title="Bonjour, Je suis Julien Parfait BIDIAS."
+					tagline="Ingénieur Statisticien économiste, expert en analyse de données et modélisation."
 					align="start"
 				>
 					<div class="roles">
 						<Pill><Icon icon="code" size="1.33em" /> Data Analyst</Pill>
-						<Pill><Icon icon="terminal-window" size="1.33em" /> Data Scientist</Pill>
+						<Pill><Icon icon="terminal-window" size="1.33em" /> Statisticien</Pill>
 						<Pill><Icon icon="code" size="1.33em" />Economiste</Pill>
 					</div>
 				</Hero>
@@ -55,7 +55,7 @@ const projects = (await getCollection('work'))
 		<main class="wrapper stack gap-20 lg:gap-48">
 			<section class="section with-background with-cta">
 				<header class="section-header stack gap-2 lg:gap-4">
-					<h3>Réalisations et projets</h3>
+					<h4>Réalisations et projets</h4>
 					<p style="text-align: justify;">Aperçu de mes travaux les plus récents en analyse de données, machine learning, tableaux de bord et Gestion des bases de données.</p>
 				</header>
 
@@ -81,12 +81,16 @@ const projects = (await getCollection('work'))
 
 			<section class="section with-background bg-variant">
 				<header class="section-header stack gap-2 lg:gap-4">
-					<h3>Centres d'intérêts</h3>
-					<p>
-						Passionné par l'analyse de données dans le secteur de la finance, le E-commerce, les ventes, le digital, je suis 
-						motivé par la création de solutions innovantes pour faciliter l'automatisation des tâches en industrie afin de gagner en temps, 
-						en productivité, et améliorer le processus de décision en fournissant des insights clés pour un bon suivi des indicateurs de performances.
-					</p>
+					<h4>Centres d'intérêts</h4>
+					<h6>
+					    <p style="text-align: justify;">
+						Passionné par l'analyse de données en économie, dans le secteur de la finance, le E-commerce, je participe aux processus d'élaboration de protocoles d'enquêtes, 
+						au suivi d'indicateurs de performances. J'effectue régulièrement des travaux liés au traitement de données, processus d'automatisation des tâches afin de gagner
+						en productivité et améliorer le processus de décision en fournissant des insights clés. J'interviens également dans la collecte de données, le suivi-évaluation
+						des projets et la data science notamment à travers la construction et le déploiement de modèles prédictifs d'apprentissage supervisé, non supervisé et de
+						prévisions.
+					    </p>
+				    </h6>
 				</header>
 			</section>
 		</main>
@@ -221,12 +225,12 @@ const projects = (await getCollection('work'))
 
 	.mention-card {
 		display: flex;
-		height: 7rem;
+		height: 4rem;
 		justify-content: center;
 		align-items: center;
 		text-align: center;
 		border: 1px solid var(--gray-800);
-		border-radius: 1.5rem;
+		border-radius: 1.2rem;
 		color: var(--gray-300);
 		background: var(--gradient-subtle);
 		box-shadow: var(--shadow-sm);
@@ -234,8 +238,8 @@ const projects = (await getCollection('work'))
 
 	@media (min-width: 50em) {
 		.mention-card {
-			border-radius: 1.5rem;
-			height: 9.5rem;
+			border-radius: 1.2rem;
+			height: 6.5rem;
 		}
 	}
 </style>

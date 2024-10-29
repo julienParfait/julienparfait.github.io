@@ -1,5 +1,5 @@
 ---
-title: Sales analysis with Tableau+++
+title: Tableau de bord des ventes avec Tableau+++
 publishDate: 2023-09-02 00:00:00
 img: /assets/tableau.png
 img_alt: Tableau ++

@@ -1,5 +1,5 @@
 ---
-title: Python Shiny Dashoard
+title: Analyse de données d'enquêtes
 publishDate: 2021-12-17 00:00:00
 img: /assets/ADD.png
 img_alt: Dashboard
@@ -37,5 +37,5 @@ Elle propose :
 Idéale pour présenter des résultats non techniques et les grandes tendances d'une étude à un large public. 🌍 Enfin, il est possible de télécharger le jeu de données en fonction des besoins (selon le nombre de lignes, le nombre de colonnes ou à travers des filtres).
 </p>
 
-Github : <a href="https://github.com/julienParfait/caract_socio_demo.git">Suivi Evaluation.</a>
+Privacy Github : <a href="https://github.com/julienParfait/caract_socio_demo.git">Suivi Evaluation.</a>
 

@@ -1,5 +1,5 @@
 ---
-title: Data Analysis application
+title: Application d'analyse de données
 publishDate: 2023-08-02 00:00:00
 img: /assets/stock-4.png
 img_alt: Application web interactive with Python/R Shiny.
@@ -12,8 +12,10 @@ tags:
   - Monitoring & evaluation
 ---
 
+##### Description 
+
 <p style="text-align: justify;">
-Je développe dans ce projet une application web interactive d'analyse de données et d'apprentissage non supervisé. En outre, l'application couvre une gamme assez varié de thème et peut être utile pour de nombreuses entreprises ayant recours à la prise de décision basées sur les données probantes. Simple et facile à manipuler, elle permet de suivre les indicateurs et dégagez les principales tendances graphiques lors d'une enquête de terrain ou en ligne (utile pour le suivi-évaluation). De plus, elle offre la possibilité en laissant aux utilisateurs le soin d'importer leur propre base de données de pouvoir automatiser leur processus d'analyse si de nouvelles enquêtes seraient en cours. 
+Dans ce projet je développe une application web interactive d'analyse de données et d'apprentissage non supervisé. En outre, l'application couvre une gamme assez variée de thème et peut être utile pour de nombreuses entreprises ayant recours à la prise de décision basées sur les données probantes. Simple et facile à manipuler, elle permet de suivre les indicateurs et dégagez les principales tendances graphiques lors d'une enquête de terrain ou en ligne (utile pour le suivi-évaluation). De plus, elle offre la possibilité en laissant aux utilisateurs le soin d'importer leur propre base de données de pouvoir automatiser leur processus d'analyse si de nouvelles enquêtes seraient en cours. 
 </p>
 
 <p style="text-align: justify;">
