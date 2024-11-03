@@ -1,6 +1,6 @@
 ---
 title: Segmentation des clients
-publishDate: 2023-03-02 00:00:00
+publishDate: 2023-12-02 00:00:00
 img: /assets/segmentation.png
 img_alt: unsupervised learning
 description: |
