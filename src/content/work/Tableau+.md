@@ -1,13 +1,13 @@
 ---
-title: Tableau de bord des ventes avec Tableau+++
+title: Tableau de bord des gestion des sinistres - assurance
 publishDate: 2023-09-02 00:00:00
-img: /assets/tableau.png
+img: /assets/assurance.png
 img_alt: Tableau ++
 description: |
-  Analyses des ventes et suivi des indicateurs de performances avec Tableau +++. 
+  Suivi des indicateurs clés de performances d'une compagnie d'assurance (KPIs). 
 tags:
-  - Tableau+++
-  - Sales analysis
+  - Sinistres
+  - Primes
   - KPI 
 ---
 
