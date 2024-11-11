@@ -1,10 +1,10 @@
 ---
-title: Application d'analyse de données
+title: Data analysis application
 publishDate: 2023-08-02 00:00:00
 img: /assets/stock-4.png
-img_alt: Application web interactive with Python/R Shiny.
+img_alt: Application web interactive avec Python/R Shiny.
 description: |
-  Développement d'une application web interactive d'analyse de données pour le suivi-évaluation, l'apprentissage non supervisé : ACP, CAH et clustering.
+  Development of an interactive web application for data analysis for monitoring and evaluation, unsupervised learning: PCA and clustering.
 tags:
   - Clustering
   - Data analysis
@@ -12,11 +12,11 @@ tags:
   - Monitoring & evaluation
 ---
 
-##### Description 
+#####  Overview
 
 <p style="text-align: justify;">
-Dans ce projet je développe une application web interactive d'analyse de données et d'apprentissage non supervisé. En outre, l'application couvre une gamme assez variée de thème et peut être utile pour de nombreuses entreprises ayant recours à la prise de décision basées sur les données probantes. Simple et facile à manipuler, elle permet de suivre les indicateurs et dégagez les principales tendances graphiques lors d'une enquête de terrain ou en ligne (utile pour le suivi-évaluation). De plus, elle offre la possibilité en laissant aux utilisateurs le soin d'importer leur propre base de données de pouvoir automatiser leur processus d'analyse si de nouvelles enquêtes seraient en cours. 
+In this project I am developing an interactive web application for data analysis and unsupervised learning. The application covers a fairly wide range of topics and can be useful for many companies using evidence-based decision-making. Simple and easy to use, it allows you to track indicators and identify key graphical trends during a field survey or online (useful for monitoring and evaluation). What's more, by allowing users to import their own database, it can automate the analysis process if new surveys are carried out.
 </p>
 
-Pour tester toutes les fonctionnalités de l'application n'hésitez pas à cliquer le lien suivant : <a href="https://parfaitjulien.shinyapps.io/data_reporting/">Analyse de données Julien</a>
+To try out all the application's features, click on the following link : <a href="https://parfaitjulien.shinyapps.io/data_reporting/">Data analysis</a>
 </p>

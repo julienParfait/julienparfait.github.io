@@ -1,25 +1,25 @@
 ---
-title: Analyses des ventes
+title: Sales analysis
 publishDate: 2023-11-01 00:00:00
 img: /assets/stock-2.png
-img_alt: Analyses ventes avec Evidence 
+img_alt: Sales analysis with Evidence 
 description: |
-  Analyse en temps réel des services offert par une société financière. Les produits financiers étant l'assurance vie, les prêts immobiliers, le compte épargne et les plans de retraite. 
+  Real-time analysis of the services offered by a financial company. Financial products include life insurance, mortgages, savings accounts and pension plans. 
 tags:
   - Finance
   - SQL
   - Evidence
 ---
 
-##### Description 
+#####  Overview
 
 <p style="text-align: justify;">
-L'analyse des ventes vise à fournir une vue globale des performances commerciales de l'entreprise en examinant les données pour identifier les tendances de consommation et évaluer l'efficacité des offres. En mettant en évidence les produits les plus rentables et en analysant les performances des employés, on peut optimiser les opérations et adapter une stratégie pour répondre aux besoins des clientèls et afin de booster son chiffre d'affaire. Ce système d'analyse permet non seulement un suivi continu des résultats, mais sert également de base pour prendre des décisions éclairées, renforcer la compétitivité de l'entreprise et soutenir sa pérennité.
+Sales analysis aims to provide a global view of a company's commercial performance by examining data to identify consumer trends and assess the effectiveness of offers. By highlighting the most profitable products and analysing employee performance, we can optimise operations and adapt a strategy to meet customer needs and boost turnover. This analysis system not only enables continuous monitoring of results, but also serves as a basis for making informed decisions, strengthening the company's competitiveness and supporting its long-term viability.
 </p>
 
 <p style="text-align: justify;">
-Pour mener à bien ce projet, l'analyse de donnée porte sur les axes suivants : 
+To carry out this project, the data analysis will focus on the following areas:
 </p>
 
 
-Pour voir toutes les fonctionnalités de l'application et les résultats, cliquez sur le lien : <a href="https://parfaitbidiasa.evidence.app/">Julien Bidias App</a>
+To see all the features of the application and the results, click on the link : <a href="https://parfaitbidiasa.evidence.app/">Julien Bidias App</a>

@@ -1,37 +1,37 @@
 ---
-title: Cartographie
+title: Cartography
 publishDate: 2021-12-18 00:00:00
 img: /assets/carte.png
-img_alt: Cartography avec R et Python
+img_alt: Cartography with R and Python
 description: |
-  Projet montrant comment tirer profit de l'analyse cartographique, géospatiale et des systèmes d'information géographique. 
+  Project showing how to benefit from cartographic and geospatial analysis and geographic information systems. 
 tags:
-  - Carotgraphie
-  - Geospatiale
-  - SIG
+  - Carotgraphy
+  - Geospatial
+  - Geographic Information System (GIS)
   - R, Python
 ---
 
-## Description 
+## Overview
 
 <p style="text-align: justify;">
-💻 Ce projet donne un aperçu descriptif sur la cartographie avec R et met en exergue sa puissance dans l'analyse géospatiale de données. Tout comme Python, R offre de nombreuses bibliothèques permettant de faire une analyse spatiale de données. Dans ce projet je présente cinq bibliothèques très utiles pour la cartographie des indicateurs : sf, cartography, tmap, leaflet, mapview. 🗺️💡
+💻 This project gives a descriptive overview of mapping with R and highlights its power in geospatial data analysis. Like Python, R offers a number of libraries for spatial data analysis. In this project I present five very useful libraries for mapping indicators: sf, cartography, tmap, leaflet, mapview. 🗺️💡
 </p>
 
 <p style="text-align: justify;">
-💻 L'analyse géospatiale peut être utilisée pour des études descriptives sur des sujets variés comme le changement climatique, la COVID-19, le chômage ou encore l'inflation 📈. Elle est également utile pour des régressions spatiales, des évaluations d'impact, et même en machine learning ! 🎯 Par exemple, on peut visualiser les prix des maisons dans plusieurs localités et comparer avec les prix prédits par un modèle de régression (sur deux cartes) ; On peut examiner la corrélation entre des indicateurs sur une carte, etc. 🎯
+💻Geospatial analysis can be used for descriptive studies on a wide range of subjects such as climate change, COVID-19, unemployment and inflation 📈. It is also useful for spatial regressions, impact assessments and even machine learning! 🎯 For example, you can view house prices in several locations and compare them with the prices predicted by a regression model (on two maps); you can examine the correlation between indicators on a map, and so on. 🎯
 </p>
 
 <p style="text-align: justify;">
-📌 En somme, cette approche est utile dans une multitude de situations telles que le suivi des ventes dans différentes régions, le suivi évaluation au niveau départementale, communale, l'évaluation d'impact dans le temps et dans l'espace, l'évolution du chiffre d'affaire d'une entreprise par ville, par région, etc. 
+📌 In short, this approach is useful in a multitude of situations, such as monitoring sales in different regions, monitoring evaluation at departmental or local level, evaluating impact in time and space, tracking a company's turnover by town or region, etc. 
 </p>
 
 Liens : 
 
-1. <a href="https://github.com/julienParfait/application.git">Cartographie avec R</a> ; 
+1. <a href="https://github.com/julienParfait/application.git">Cartography using  R</a> ; 
 
 
-2. <a href="https://github.com/JulienBIDIAS/geospatial.analysis.git">Analyses géospatiales</a>.
+2. <a href="https://github.com/JulienBIDIAS/geospatial.analysis.git">Geospatial analysis</a>.
 
 
  

@@ -1,24 +1,21 @@
 ---
-title: Pipepline et processus ETL 
+title: Pipepline and ETL process
 publishDate: 2020-04-02 00:00:00
 img: /assets/pipeline.jpg
 img_alt: Dashboard
 description: |
-  Elaboration d'une application de construction automatique de pipelines d'apprentissage automatique avec Python et d'application du processus ETL.  
+  Development of an application for automatic construction of machine learning pipelines with Python and application of the ETL process.
 tags:
   - Pipeline 
   - Flux ETL
   - Pre processing
 ---
 
-#### Description 
+#### Overview
 
-
-
-
-Lien de l'article pour comprendre le processus ETL : <a href="https://neptune.ai/blog/building-end-to-end-ml-pipeline">Neptune.</a>
+Link to the article on the ETL process : <a href="https://neptune.ai/blog/building-end-to-end-ml-pipeline">Neptune.</a>
 
 
 <br>
 
-Lien de l'application : En cours de développement.
+Application link : Under development.

@@ -1,34 +1,32 @@
 ---
-title: Tableau de Bord
+title: Dashboard
 publishDate: 2022-02-04 00:00:00
 img: /assets/sales_new.png
-img_alt: Analyse de la pauvreté monétaire
+img_alt: Analysis
 description: |
-  Dashboard d'analyse des ventes avec R. 
+  Sales analysis dashboard 
 tags:
   - Sales
   - KPI
-  - R shiny
   - Data Analysis
 ---
 
-##### Description 
+##### Overview
 
 
 <p style="text-align: justify;">
-Tableau de bord interactif conçu pour offrir une analyse complète des ventes. Cette application est utile pour la visualisation et le suivi des performances commerciales, elle permet de filtrer les données par région, période, et type de produit. Elle offre la possibilité d'observer instantanément les indicateurs clés de performance, comme le montant total des ventes, la moyenne journalière, et le nombre de transactions, grâce à des widgets dynamiques qui affichent ces métriques en temps réel. 
+Interactive dashboard designed to provide a complete sales analysis. This application is useful for visualising and monitoring sales performance, and allows data to be filtered by region, period and product type. It provides instant access to key performance indicators such as total sales, daily average and number of transactions, thanks to dynamic widgets that display these metrics in real time.
 </p>
 
 <p style="text-align: justify;">
-Le tableau de bord intègre également des graphiques interactifs pour une visualisation optimale des données, suivre l'évolution des ventes au fil du temps ou explorer la répartition par produit pour identifier les tendances. Enfin, un tableau détaillé complète l'application, offrant un accès approfondi aux données pour une analyse détaillée et une bonne prise de décision.
+The dashboard also incorporates interactive graphs for optimal data visualisation, tracking sales over time or exploring the breakdown by product to identify trends. Finally, a detailed table completes the application, offering in-depth access to data for detailed analysis and sound decision-making.
 </p>
 
-##### Technologies utilisées 
+##### Technologies 
 
 - R shiny
-- Langage HTML
+- HTML
 - CSS
-- Shiny io pour déployer
 
 
 ##### Lien de l'application 

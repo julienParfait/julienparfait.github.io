@@ -1,41 +1,39 @@
 ---
-title: Analyse de données d'enquêtes
+title: Analysis of survey data
 publishDate: 2021-12-17 00:00:00
 img: /assets/ADD.png
 img_alt: Dashboard
 description: |
-  🚀 Développement d'une application d'analyse sociodémographique et de suivi-évaluation 💻
+  🚀Development of a socio-demographic analysis and monitoring-evaluation application 💻
 tags:
-  - Suvi-évalution
-  - Python shiny
+  - Monitoring and evaluation
   - Dashboard 
 ---
 
-#### Description 
+#### Overview
 
 <p style="text-align: justify;">
-Cette application interactive permet de présenter les analyses sociodémographiques des données d'enquête, ainsi que des indicateurs de suivi-évaluation et des agrégats économiques.
+This interactive application presents socio-demographic analyses of survey data, as well as monitoring and evaluation indicators and economic aggregates.
 </p>
 
-Elle propose :
+It proposes:
+<br>
+
+- 📊 Univariate analyses: for example, the breakdown of the sample by geographical area, gender, level of education, and much more.
 
 <br>
 
-- 📊 Analyses univariées : par exemple, la répartition de l'échantillon selon la zone géographique, le sexe, le niveau d'instruction, et bien plus encore.
+- 🔍 Cross-tabulated statistics: analysis of socio-professional categories by place of residence or level of education, and breakdown of the working population by gender.
 
 <br>
 
-- 🔍 Statistiques croisées : analyse des catégories socioprofessionnelles selon le milieu de résidence ou le niveau d'instruction, et répartition de la population active selon le sexe.
-
-<br>
-
-- 🗺️ Cartographie interactive : visualisation de tous les indicateurs à l'échelle sous-régionale, avec la possibilité d'effectuer des analyses par région ou département.
+- 🗺️ Interactive mapping: display of all indicators at sub-regional level, with the option of carrying out analyses by region or department.
 
 <br>
 
 <p style="text-align: justify;">
-Idéale pour présenter des résultats non techniques et les grandes tendances d'une étude à un large public. 🌍 Enfin, il est possible de télécharger le jeu de données en fonction des besoins (selon le nombre de lignes, le nombre de colonnes ou à travers des filtres).
+Ideal for presenting non-technical results and the main trends of a study to a wide audience. 🌍 Finally, it is possible to download the dataset as required (according to the number of rows, the number of columns or through filters).
 </p>
 
-Privacy Github : <a href="https://github.com/julienParfait/caract_socio_demo.git">Suivi Evaluation.</a>
+Privacy Github : <a href="https://github.com/julienParfait/caract_socio_demo.git">Monitoring and evaluation.</a>
 

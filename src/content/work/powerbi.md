@@ -1,23 +1,23 @@
 ---
-title: Suivi indicateurs sanitaires
+title: Monitoring health indicators
 publishDate: 2023-10-02 00:00:00
 img: /assets/powerbi2.png
-img_alt: Analyses et suivi d'indicateurs avec Power BI deskstop
+img_alt: Analysis and monitoring
 description: |
-  Tableau de bord de suivi et d'analyse d'indicateurs sur l'accès à l'eau potable dans le monde. 
+  Dashboard for monitoring and analysing indicators on access to drinking water worldwide. 
 tags:
   - PowerBI
-  - Indicateurs
-  - Accès à l'eau
+  - Indicators
+  - Access to water
 ---
 
 ##### Description 
 
 
 <p style="text-align: justify;">
-Ce projet de dashboard offre une vue d’ensemble complète de l'accès à l'eau potable dans le monde, en mettant en lumière les inégalités et les défis liés à la qualité de l'eau par pays et par continent. Il permet de centraliser des indicateurs essentiels tels que la population ayant accès à l'eau potable, la répartition de cette population en fonction de l'entretien des infrastructures d'eau, ainsi que le taux de mortalité et le nombre de décès dus à l'eau non potable. En intégrant des données globales comme la stabilité politique et la population totale, ce tableau de bord permet une analyse fine des facteurs qui influencent l'accès à une eau de qualité.
+This dashboard project provides a comprehensive overview of access to drinking water around the world, highlighting the inequalities and challenges associated with water quality by country and by continent. It centralises key indicators such as the population with access to drinking water, the distribution of this population according to the maintenance of water infrastructures, as well as the mortality rate and the number of deaths due to non-drinking water. By integrating global data such as political stability and total population, this dashboard enables a detailed analysis of the factors that influence access to quality water.
 </p>
 
-Lien du dépôt Github : <a href="https://github.com/JulienBIDIAS/TableauDeBord.git">Accès à l'eau potable dans le monde.</a>
+ Github Link : <a href="https://github.com/JulienBIDIAS/TableauDeBord.git">Access to drinking water around the world.</a>
 
 

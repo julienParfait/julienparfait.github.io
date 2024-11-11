@@ -1,10 +1,10 @@
 ---
-title: Détection de fraudes
+title: Fraud detection
 publishDate: 2024-01-04 00:00:00
 img: /assets/stock-3.png
-img_alt: Plongez dans le monde du Machine learning avec cet important projet.
+img_alt: Dive into the world of Machine Learning with this major project.
 description: |
-  Construction d'un modèle permettant de détecter les transactions frauduleuses.
+  Building a model to detect fraudulent transactions.
 tags:
   - Machine learning
   - Classification
@@ -14,7 +14,7 @@ tags:
 ##### Description 
 
 <p style="text-align: justify;">
-L'objectif principal est de développer un modèle capable de détecter des transactions potentiellement frauduleuses en temps réel, réduisant ainsi les pertes financières et améliorant la sécurité des clients. En analysant les données historiques, ce modèle permet d'identifier des schémas de comportement frauduleux et anticiper les futures tentatives de fraude.
+The main objective is to develop a model capable of detecting potentially fraudulent transactions in real time, thereby reducing financial losses and improving customer security. By analysing historical data, this model can identify patterns of fraudulent behaviour and anticipate future fraud attempts.
 </p>
 
 

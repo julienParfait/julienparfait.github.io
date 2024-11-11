@@ -1,14 +1,15 @@
 ---
-title: Application de gestion de bases données
+title: Database management application
 publishDate: 2022-05-10 00:00:00
 img: /assets/sqlDash.png
 img_alt: ICP 
 description: |
-  Développement d'une application d'exécution des requêtes en langage SQL, de visualisation des requêtes et d'analyse de données. 
+ Development of an application for executing SQL language queries, displaying queries and analysing data.
 tags:
-  - Base de données
-  - visualisation
+  - Data Base Management
+  - vizualisation
   - SQL
 ---
 
-#### Description 
+#### Overview 
+

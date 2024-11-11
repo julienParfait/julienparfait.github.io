@@ -1,26 +1,25 @@
 ---
-title: Segmentation des clients
+title: Customer segmentation
 publishDate: 2023-12-02 00:00:00
 img: /assets/segmentation.png
 img_alt: unsupervised learning
 description: |
-  Segmentation des clients à travers l'apprentissage non supervisé. 
+ Customer segmentation using unsupervised learning.
 tags:
-  - Apprentissage non supervisé
-  - Segmentation
+  - Unsupervised learning
   - Clustering
 ---
 
-#### Description 
+#### Overview
 
 <p style="text-align: justify;">
-Le clustering, ou regroupement, est une méthode d'analyse qui consiste à diviser un ensemble de données en groupes homogènes, appelés clusters, en fonction de similarités entre les observations. Chaque cluster réunit des éléments ayant des caractéristiques communes. Le clustering est un outil précieux pour segmenter une population (clients, patients, régions, etc.) de manière à adapter des stratégies spécifiques à chaque groupe. Par exemple, une entreprise peut utiliser le clustering pour segmenter sa clientèle selon des critères de comportement ou de besoins, permettant d'optimiser ses efforts marketing en personnalisant les offres.
+Clustering is an analysis method that involves dividing a set of data into homogeneous groups, called clusters, based on similarities between observations. Each cluster brings together elements with common characteristics. Clustering is a valuable tool for segmenting a population (customers, patients, regions, etc.) so as to adapt specific strategies to each group. For example, a company can use clustering to segment its customer base according to behavioural or needs criteria, enabling it to optimise its marketing efforts by personalising its offers.
 </p>
 
 <p style="text-align: justify;">
-Fonctionnement : Il vous suffit d'importer une base de données (format .xlsx ou .csv) et de suivre les étapes une par une. En un paragraphe et quelques lignes, et sans écrire de code, vous aurez appris comment faire du clustering.
+How it works: Simply import a database (.xlsx or .csv format) and follow the steps one by one. In a paragraph and a few lines, and without writing any code, you'll have learned how to do clustering.
 </p>
 
 <p style="text-align: justify;">
-Lien : <a href="https://julienparfait.shinyapps.io/clustering/">Clustering App.</a>
+Link : <a href="https://julienparfait.shinyapps.io/clustering/">Clustering App.</a>
 </p>
