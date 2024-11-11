@@ -1,5 +1,5 @@
 ---
-title: Tableau de bord des gestion des sinistres - assurance
+title: Tableau de bord de gestion des sinistres - assurance
 publishDate: 2023-09-02 00:00:00
 img: /assets/assurance.png
 img_alt: Tableau ++
