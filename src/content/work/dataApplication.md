@@ -1,6 +1,6 @@
 ---
 title: Data analysis application
-publishDate: 2023-08-02 00:00:00
+publishDate: 2024-01-02 00:00:00
 img: /assets/stock-4.png
 img_alt: Application web interactive avec Python/R Shiny.
 description: |

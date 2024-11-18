@@ -26,5 +26,3 @@ Digital finance and e-commerce are sectors experiencing exponential growth, and 
 <p style="text-align: justify;">
 The aim of this project is to implement a product recommendation system using MongoDB, a flexible and high-performance NoSQL database adapted to the storage and analysis needs of large, unstructured data. This solution will make it possible to design relevant recommendations based on purchasing behaviour, interactions with the site and explicit user preferences, for an optimised customer experience.
 </p>
-
-Follow the link : 

@@ -1,6 +1,6 @@
 ---
 title: Monitoring health indicators
-publishDate: 2023-10-02 00:00:00
+publishDate: 2024-01-05 00:00:00
 img: /assets/powerbi2.png
 img_alt: Analysis and monitoring
 description: |
