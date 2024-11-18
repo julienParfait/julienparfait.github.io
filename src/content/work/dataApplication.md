@@ -20,3 +20,6 @@ In this project I am developing an interactive web application for data analysis
 
 To try out all the application's features, click on the following link : <a href="https://parfaitjulien.shinyapps.io/data_reporting/">Data analysis</a>
 </p>
+
+- The user name for this application : julien
+- The password  : 0000

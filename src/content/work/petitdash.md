@@ -29,7 +29,7 @@ The dashboard also incorporates interactive graphs for optimal data visualisatio
 - CSS
 
 
-##### Lien de l'application 
+##### Link
 
 
  <a href="https://parfaitjulien.shinyapps.io/sales_dashboard/">Sales Dashboard</a>
