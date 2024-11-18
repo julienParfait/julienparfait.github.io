@@ -18,4 +18,4 @@ Link to the article on the ETL process : <a href="https://neptune.ai/blog/buildi
 
 <br>
 
-Application link : Under development.
+Application link : Coming soon.

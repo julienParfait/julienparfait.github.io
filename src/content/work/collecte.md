@@ -15,27 +15,26 @@ tags:
 ####  Overview
 
 <p style="text-align: justify;">
-Une ONG  décide d’appuyer le pays du Sénégal dans sa lutte contre l’insécurité alimentaire en milieu rural dans un contexte de post covid en particuli er dans les zones du Bassin arachidier et de la Casamance Après avoir menés une série d’études pour voir le mécanisme par lequel l’appui va prendre forme ,les experts de l'ONG roposent deux alternatives :
+An NGO has decided to support the country of Senegal in its fight against food insecurity in rural areas in a post-covid context, particularly in the areas of the Groundnut Basin and Casamance. After carrying out a series of studies to determine the mechanism by which the support would take shape, the NGO's experts propose two alternatives:
 </p>
 
-- Un financement d’un montant (500.000 Francs CFA) destiné à des dépenses particulières
-- Un octroi de kits alimentaires composés de 150 kg de riz, 25 kg de sucres, 50 kg
-d’oignons et 25 L d’huile
-- Cette intervention s’inscrit dans le cadre des partenariats signé entre l'ONG et les pays subsahariens en vue de participer au processus de développement
+- Funding of 500,000 CFA francs for specific expenses.
+- A consignment of food kits containing 150 kg of rice, 25 kg of sugar, 50 kg of onions and 25 litres of oil
+- This intervention is part of the partnerships signed between the NGO and sub-Saharan countries with a view to participating in the development process.
 
 <p style="text-align: justify;">
-Objectifs :
+Objectives:
 </p>
 
-- L’objectif général de l’accompagnement du gouvernement de WAKANDA est d’améliorer substantiellement le niveau d’insécurité alimentaire dans le Bassin arachidier et de la Casamance Spécifiquement, 3 objectifs sont poursuivis
+- The general objective of the WAKANDA government's support is to substantially improve the level of food insecurity in the Groundnut Basin and Casamance Specifically, 3 objectives are being pursued
 
-- Relancer les secteurs moteurs de l’économie rurale dans le Bassin arachidier et de la
+- Revive the driving sectors of the rural economy in the groundnut basin and the
 Casamance
 
-- Diversifier les activités économiques des ménages dans le Bassin arachidier et de la
+- Diversify the economic activities of households in the groundnut basin and the
 Casamance
 
-- Evaluer la stratégie qui a le plus fort impact s ur l’insécurité alimentaire.
+- To assess which strategy has the greatest impact on food insecurity.
 
 Link : <a href="https://designer.mysurvey.solutions/q/details/8c3dd28c-f3d4-4de6-a458-70de68fba3ff">Suryvey Solution Application</a>.
 
