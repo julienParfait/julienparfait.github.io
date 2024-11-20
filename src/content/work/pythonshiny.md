@@ -35,5 +35,13 @@ It proposes:
 Ideal for presenting non-technical results and the main trends of a study to a wide audience. 🌍 Finally, it is possible to download the dataset as required (according to the number of rows, the number of columns or through filters).
 </p>
 
-Privacy Github : <a href="https://github.com/julienParfait/caract_socio_demo.git">Monitoring and evaluation.</a>
+<p style="text-align: justify;">
+Click on the link below. Once the link is open, fill in the following information by clicking on the <b>Connexion</b> button in the top left-hand corner of the left-hand side panel: 
+</p>
+
+User's name : julien 
+
+Passeword : 0000
+
+Link : <a href="https://parfaitjulien.shinyapps.io/monitoring_and_evaluation/">Monitoring and evaluation.</a>
 

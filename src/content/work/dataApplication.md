@@ -2,7 +2,7 @@
 title: Data analysis application
 publishDate: 2024-01-02 00:00:00
 img: /assets/stock-4.png
-img_alt: Application web interactive avec Python/R Shiny.
+img_alt: Application web interactive.
 description: |
   Development of an interactive web application for data analysis for monitoring and evaluation, unsupervised learning: PCA and clustering.
 tags:
