@@ -1,6 +1,6 @@
 ---
 title: Fraud detection
-publishDate: 2023-12-31 00:00:00
+publishDate: 2020-03-02 00:00:00
 img: /assets/stock-3.png
 img_alt: Dive into the world of Machine Learning with this major project.
 description: |

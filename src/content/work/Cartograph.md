@@ -1,15 +1,12 @@
 ---
 title: Cartography
-publishDate: 2021-12-18 00:00:00
+publishDate: 2023-12-02 00:00:00
 img: /assets/carte.png
 img_alt: Cartography with R and Python
 description: |
   Project showing how to benefit from cartographic and geospatial analysis and geographic information systems. 
 tags:
-  - Carotgraphy
-  - Geospatial
   - Geographic Information System (GIS)
-  - R, Python
 ---
 
 ## Overview

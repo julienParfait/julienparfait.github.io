@@ -1,6 +1,6 @@
 ---
 title: Customer segmentation
-publishDate: 2023-12-02 00:00:00
+publishDate: 2021-12-18 00:00:00
 img: /assets/segmentation.png
 img_alt: unsupervised learning
 description: |

@@ -15,7 +15,7 @@ tags:
 
 
 <p style="text-align: justify;">
-Interactive dashboard designed to provide a complete sales analysis. This application is useful for visualising and monitoring sales performance, and allows data to be filtered by region, period and product type. It provides instant access to key performance indicators such as total sales, daily average and number of transactions, thanks to dynamic widgets that display these metrics in real time.
+Interactive dashboard designed to provide a complete sales analysis. This application is useful for visualising and monitoring sales performance, and allows data to be filtered by region, period and product type. It provides instant access to key performance indicators such as total sales, daily average and number of transactions, thanks to dynamic widgets that display these metrics in real time. lol
 </p>
 
 <p style="text-align: justify;">

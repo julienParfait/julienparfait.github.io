@@ -4,7 +4,7 @@ publishDate: 2024-01-05 00:00:00
 img: /assets/ADD.png
 img_alt: Dashboard
 description: |
-  🚀Development of a socio-demographic analysis and monitoring-evaluation application 💻
+  Development of a socio-demographic analysis and monitoring-evaluation application.
 tags:
   - Monitoring and evaluation
   - Dashboard 

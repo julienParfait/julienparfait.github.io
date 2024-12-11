@@ -1,6 +1,6 @@
 ---
 title: Data preprocessing - STATA
-publishDate: 2024-01-06 00:00:00
+publishDate: 2024-01-05 00:00:00
 img: /assets/stata_traitement.png
 img_alt: monitoring
 description: |

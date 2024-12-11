@@ -1,6 +1,6 @@
 ---
 title: Management dashboard - insurance
-publishDate: 2023-09-02 00:00:00
+publishDate: 2024-01-02 00:00:00
 img: /assets/assurance.png
 img_alt: Tableau ++
 description: |

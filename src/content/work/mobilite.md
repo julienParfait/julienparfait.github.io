@@ -1,6 +1,6 @@
 ---
 title: Research Paper
-publishDate: 2021-02-02 00:00:00
+publishDate: 2023-09-02 00:00:00
 img: /assets/mobilite.png
 img_alt: Research
 description: |
@@ -29,6 +29,9 @@ by relatively low social fluidity, showing the weak influence of parents’ stat
 that of the children. Furthermore, the results of the structural equation model show
 that in addition to the parents’ status, the parents’ education level is an explanatory
 factor in the positioning of children in a given sector of activity.
+</p>
+
+
 <br>
 
 **GitHub**:  <a href="https://github.com/JulienBIDIAS/intergenerational_mobility">Intergenerational Mobility</a>.

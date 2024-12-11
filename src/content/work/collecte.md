@@ -1,5 +1,5 @@
 ---
-title: Survey
+title: Survey form
 publishDate: 2024-01-06 00:00:00
 img: /assets/questionnaire_enquete_agric.png
 img_alt: Survey
