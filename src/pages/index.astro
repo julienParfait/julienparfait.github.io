@@ -30,8 +30,8 @@ const projects = (await getCollection('work'))
 		<div class="wrapper stack gap-8 lg:gap-20">
 			<header class="hero">
 				<Hero
-					title="Hello, I'm Julien Parfait BIDIAS."
-					tagline="Statistician Engineer, Economist, Data Analyst."
+					title="Hi, I'm Julien Parfait BIDIAS."
+					tagline="Statistician Engineer, Economist."
 					align="start"
 				>
 					<div class="roles">
@@ -43,8 +43,8 @@ const projects = (await getCollection('work'))
 
 				<img
 					alt="Julien Parfait BIDIAS ASSALA"
-					width="480"
-					height="500"
+					width="300"
+					height="300"
 					src="/assets/portrait.jpg"
 				/>
 			</header>
@@ -85,9 +85,66 @@ const projects = (await getCollection('work'))
 					<h6>
 					    <p style="text-align: justify;">
 							I'm passionate about research, data analysis in economics, finance, health, agriculture and e-commerce, and am involved in developing survey protocols and monitoring performance indicators. I regularly work on data processing and task automation processes to increase productivity and improve the decision-making process by providing key insights. I'm also involved in data collection, project monitoring and evaluation and data science, particularly through the construction and deployment of predictive models.
+						</p>
 				    </h6>
+					<style>
+						/* Style du formulaire */
+						form {
+						  display: center;
+						  flex-direction: column;
+						  align-items: center;
+						  background-color: #f7f7f7;
+						  padding: 20px;
+						  border-radius: 8px;
+						  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+						  width: 400%;
+						  max-width: 620px;
+						}
+					  
+						/* Style des labels */
+						label {
+						  margin-bottom: 15px;
+						  font-size: 16px;
+						  width: 100%;
+						  text-align: center;
+						}
+					  
+						/* Style des inputs et textarea */
+						input[type="email"], textarea {
+						  width: 100%;
+						  padding: 10px;
+						  font-size: 14px;
+						  border-radius: 5px;
+						  border: 1px solid #ccc;
+						  margin-top: 5px;
+						}
+					  
+						/* Style du bouton */
+						button {
+						  padding: 10px 20px;
+						  font-size: 16px;
+						  background-color: #4CAF50;
+						  color: white;
+						  border: none;
+						  border-radius: 5px;
+						  cursor: pointer;
+						  margin-top: 15px;
+						}
+					  
+						button:hover {
+						  background-color: #45a049;
+						}
+					  </style>
+					<form action="https://formspree.io/f/xgvebqyy" method="POST">
+						<label for="email">Email :</label>
+						<input type="email" name="email" id="email" required>
+						<label for="message">Message :</label>
+						<textarea name="message" id="message" required></textarea>
+						<button type="submit">Send</button>
+					</form>
 				</header>
 			</section>
+
 		</main>
 
 		<ContactCTA />
@@ -96,11 +153,29 @@ const projects = (await getCollection('work'))
 
 <style>
 	.hero {
+		font-size: 0.5rem; /* Ajustez la taille selon vos besoins */
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		gap: 2rem;
+		gap: 0.5rem;
 	}
+
+	.hero {
+    font-size: 0.5rem; /* Ajustez pour réduire la taille globale */
+	}
+
+	.hero h1 {
+    font-size: 0.5rem; /* Réduisez la taille du titre */
+	}
+
+	.hero p {
+    font-size: 0.5rem; /* Réduisez la taille du sous-titre */
+	}
+
+	.roles .pill {
+    font-size: 0.5rem; /* Réduisez la taille des éléments dans .roles */
+	}
+
 
 	.roles {
 		display: none;
@@ -118,7 +193,7 @@ const projects = (await getCollection('work'))
 		.hero {
 			display: grid;
 			grid-template-columns: 6fr 4fr;
-			padding-inline: 2.5rem;
+			padding-inline: 0.5rem;
 			gap: 3.75rem;
 		}
 
@@ -139,7 +214,7 @@ const projects = (await getCollection('work'))
 
 	.section {
 		display: grid;
-		gap: 2rem;
+		gap: 1rem;
 	}
 
 	.with-background {
